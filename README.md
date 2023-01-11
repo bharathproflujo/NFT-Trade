@@ -2,7 +2,7 @@
 
 create a .env file as same in the same format as .env-sample file.
 
-add PRIVATE_KEY, API_URL, PUBLIC_KEY in the .env
+add PRIVATE_KEY, API_URL, WALLET_ADDRESS in the .env
 
 ## To get pinata api_key and secret_key,
 1. open 'https://app.pinata.cloud'
